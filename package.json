@@ -1,0 +1,15 @@
+{
+  "name": "ethminer-influx",
+  "version": "1.0.0",
+  "description": "ethminer influxdb exporter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Clément Garnier <cle.garnier@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "influx": "^5.0.7",
+    "os": "^0.1.1"
+  }
+}
