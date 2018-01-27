@@ -8,6 +8,7 @@
   },
   "author": "Clément Garnier <cle.garnier@gmail.com>",
   "license": "ISC",
+  "repository": "github:cgarnier/ethminer-influx",
   "dependencies": {
     "influx": "^5.0.7",
     "os": "^0.1.1"
